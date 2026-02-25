@@ -1,6 +1,9 @@
 # lpu_prep_jan
 This repository is prepared to provide practise qustions for dsa
 
+## Neet150 LINK
+[Neet150](https://leetcode.com/problem-list/plakya4j/)
+
 ## ARRAY
 - [ ] 1. [Second Largest](https://www.geeksforgeeks.org/problems/second-largest3735/1)
 - [ ] 2. [Third Largest](https://leetcode.com/problems/third-maximum-number/)
